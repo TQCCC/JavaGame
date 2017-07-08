@@ -4,10 +4,10 @@ import java.awt.image.*;
 import java.util.List;
 import java.util.ArrayList;
 
-import com.brackeen.javagamebook.input.*;
-import com.brackeen.javagamebook.math3D.*;
-import com.brackeen.javagamebook.graphics3D.*;
-import com.brackeen.javagamebook.graphics3D.texture.*;
+import com.javagame.graphics3D.*;
+import com.javagame.graphics3D.texture.*;
+import com.javagame.input.*;
+import com.javagame.math3D.*;
 
 public class ShadingTest2 extends TextureMapTest2 {
 

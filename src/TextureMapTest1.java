@@ -1,7 +1,7 @@
 
-import com.brackeen.javagamebook.math3D.*;
-import com.brackeen.javagamebook.graphics3D.*;
-import com.brackeen.javagamebook.test.GameCore3D;
+import com.javagame.graphics3D.*;
+import com.javagame.math3D.*;
+import com.javagame.test.GameCore3D;
 
 public class TextureMapTest1 extends GameCore3D {
 
